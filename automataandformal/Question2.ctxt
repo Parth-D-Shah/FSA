@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Question2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=A\ w
+comment10.target=java.lang.Boolean\ isAccepted(FSA,\ java.lang.String[])
+comment11.params=
+comment11.target=void\ testIsDeterministic()
+comment12.params=A\ w\ q\ i
+comment12.target=java.lang.Boolean\ isAcceptedRec(FSA,\ java.lang.String[],\ int,\ int)
+comment2.params=
+comment2.target=FSA\ generateFSA0()
+comment3.params=
+comment3.target=FSA\ generateFSA1()
+comment4.params=
+comment4.target=FSA\ generateFSA2()
+comment5.params=
+comment5.target=FSA\ generateFSA3()
+comment6.params=
+comment6.target=void\ printThem()
+comment7.params=
+comment7.target=void\ runThem()
+comment8.params=A
+comment8.target=java.lang.Boolean\ isDeterministic(FSA)
+comment9.params=A\ name
+comment9.target=void\ checkPrintFSA(FSA,\ java.lang.String)
+numComments=13

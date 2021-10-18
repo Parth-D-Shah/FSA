@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=FSA
+comment1.params=n\ a\ d\ f
+comment1.target=FSA(int,\ java.lang.String[],\ Transition[],\ int[])
+comment10.params=X
+comment10.target=FSA\ fromArray(java.lang.Object[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ check()
+comment4.params=s
+comment4.target=java.lang.String\ checkState(int)
+comment5.params=a\ name
+comment5.target=java.lang.String\ checkTRelation(Transition[],\ java.lang.String)
+comment6.params=l
+comment6.target=java.lang.String\ checkLabel(java.lang.String)
+comment7.params=t
+comment7.target=java.lang.String\ checkTransition(Transition)
+comment8.params=x
+comment8.target=java.lang.String\ toStringAsSet(java.lang.Object[])
+comment9.params=
+comment9.target=java.lang.Object[]\ getSamples()
+numComments=11
